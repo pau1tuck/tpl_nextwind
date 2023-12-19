@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "algobruh",
+			"path": "../algobruh"
+		},
+		{
+			"name": "tpl_nextwind",
+			"path": "."
+		},
+		{
+			"name": "ts-nextjs-tailwind-starter",
+			"path": "../../templates/boilerplates/ts-nextjs-tailwind-starter"
+		},
+		{
+			"name": "nextarter-tailwind-shadcn",
+			"path": "../../templates/boilerplates/nextarter-tailwind-shadcn"
+		},
+		{
+			"name": "refine-nextjs",
+			"path": "../../templates/boilerplates/refine-nextjs"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+    "css.validate": false,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "[javascript]": {
+        "editor.quickSuggestions": {
+            "other": "off",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescript]": {
+        "editor.quickSuggestions": {
+            "other": "off",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "typescript.preferences.importModuleSpecifier": "non-relative",
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "typescript": "typescript"
+        // Add other languages if needed
+    },
+    "tailwindCSS.emmetCompletions": true,
+    // Tailwind CSS Autocomplete, add more if used in projects
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className",
+        "classNames",
+        "containerClassName"
+    ],
+}
