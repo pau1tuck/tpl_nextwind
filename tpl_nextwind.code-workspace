@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../boilerplates/create-t3-app"
+		},
+		{
+			"path": "../boilerplates/nextarter-chakra"
+		},
+		{
+			"path": "../boilerplates/nextarter-tailwind"
+		},
+		{
+			"path": "../boilerplates/Next-js-Boilerplate"
+		},
+		{
+			"path": "../boilerplates/precedent"
+		},
+		{
+			"path": "../boilerplates/ran"
+		},
+		{
+			"path": "../boilerplates/superplate"
+		},
+		{
+			"path": "../boilerplates/tailwind-nextjs-starter-blog"
+		},
+		{
+			"path": "../boilerplates/ts-nextjs-tailwind"
+		},
+		{
+			"path": "../boilerplates/ts-nextjs-tailwind-starter"
+		},
+		{
+			"path": "../boilerplates/my-project"
+		}
+	]
+}
