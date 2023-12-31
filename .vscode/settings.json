@@ -1,5 +1,4 @@
 {
-    "css.validate": false,
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
     "editor.codeActionsOnSave": {
@@ -11,7 +10,7 @@
             "comments": "off",
             "strings": "off"
         },
-        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+        "editor.defaultFormatter": "biomejs.biome"
     },
     "[typescript]": {
         "editor.quickSuggestions": {
@@ -19,12 +18,13 @@
             "comments": "off",
             "strings": "off"
         },
-        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.defaultFormatter": "biomejs.biome",
         "typescript.preferences.importModuleSpecifier": "non-relative",
     },
     "[typescriptreact]": {
-        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+        "editor.defaultFormatter": "biomejs.biome",
     },
+    "css.validate": false,
     "tailwindCSS.includeLanguages": {
         "html": "html",
         "javascript": "javascript",

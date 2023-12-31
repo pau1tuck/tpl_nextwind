@@ -1,24 +1,44 @@
 {
 	"folders": [
 		{
-			"name": "algobruh",
-			"path": "../algobruh"
-		},
-		{
 			"name": "tpl_nextwind",
 			"path": "."
 		},
 		{
+			"name": "create-next-app",
+			"path": "../boilerplates/create-next-app"
+		},
+		{
+			"name": "relivator",
+			"path": "../boilerplates/relivator"
+		},
+		{
 			"name": "ts-nextjs-tailwind-starter",
-			"path": "../../templates/boilerplates/ts-nextjs-tailwind-starter"
+			"path": "../boilerplates/ts-nextjs-tailwind-starter"
 		},
 		{
 			"name": "nextarter-tailwind-shadcn",
-			"path": "../../templates/boilerplates/nextarter-tailwind-shadcn"
+			"path": "../boilerplates/nextarter-tailwind-shadcn"
 		},
 		{
 			"name": "refine-nextjs",
-			"path": "../../templates/boilerplates/refine-nextjs"
+			"path": "../boilerplates/refine-nextjs"
+		},
+		{
+			"name": "Next-js-Boilerplate",
+			"path": "../boilerplates/Next-js-Boilerplate"
+		},
+		{
+			"name": "precedent",
+			"path": "../boilerplates/precedent"
+		},
+		{
+			"name": "RAN",
+			"path": "../boilerplates/RAN"
+		},
+		{
+			"name": "superplate-nextjs",
+			"path": "../boilerplates/superplate-nextjs"
 		}
 	]
 }

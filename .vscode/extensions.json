@@ -1,9 +1,10 @@
 {
     "recommendations": [
         "aaron-bond.better-comments",
+        "biomejs.biome",
         "bradlc.vscode-tailwindcss",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
     ]
 }
 // rvest.vs-code-prettier-eslint
+// dbaeumer.vscode-eslint
+// esbenp.prettier-vscode,
