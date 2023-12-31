@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "tpl_nextwind",
   "description": "A cutting-edge Next.js and Tailwind starter pack.",
   "author": "Paul Tuck <paul.tuck@oxon.org>",
@@ -26,11 +25,5 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
-=======
-  "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.32",
-    "tailwindcss": "^3.4.0"
->>>>>>> 3445477405b234ef69c86b668c4ff389c2a733a2
   }
 }

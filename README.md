@@ -1,3 +1,4 @@
-# pro_epl-alpha
+# "name": "tpl_nextwind"
 
-Football highlights and stats from the English Premier League.
+"description": "A cutting-edge Next.js and Tailwind starter pack.",
+"author": "Paul Tuck <paul.tuck@oxon.org>"

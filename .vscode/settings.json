@@ -6,7 +6,7 @@
     },
     "[javascript]": {
         "editor.quickSuggestions": {
-            "other": "off",
+            "other": "on",
             "comments": "off",
             "strings": "off"
         },
@@ -14,18 +14,19 @@
     },
     "[typescript]": {
         "editor.quickSuggestions": {
-            "other": "off",
+            "other": "on",
             "comments": "off",
             "strings": "off"
         },
-<<<<<<< HEAD
         "editor.defaultFormatter": "biomejs.biome",
-=======
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
->>>>>>> 3445477405b234ef69c86b668c4ff389c2a733a2
         "typescript.preferences.importModuleSpecifier": "non-relative",
     },
     "[typescriptreact]": {
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "off",
+            "strings": "off"
+        },
         "editor.defaultFormatter": "biomejs.biome",
     },
     "css.validate": false,
