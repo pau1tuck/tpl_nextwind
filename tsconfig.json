@@ -32,7 +32,12 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
+<<<<<<< HEAD
     ".next/types/**/*.ts"
+=======
+    ".next/types/**/*.ts",
+    "../../tpl_nextwind/tailwind.config.ts"
+>>>>>>> 3445477405b234ef69c86b668c4ff389c2a733a2
   ],
   "exclude": [
     "node_modules"
