@@ -18,13 +18,6 @@
 			"semicolons": "always"
 		}
 	},
-	"typescript": {
-		"formatter": {
-			"quoteStyle": "double",
-			"jsxQuoteStyle": "double",
-			"semicolons": "always"
-		}
-	},
 	"linter": {
 		"enabled": true,
 		"rules": {
