@@ -3,6 +3,7 @@
         "aaron-bond.better-comments",
         "biomejs.biome",
         "bradlc.vscode-tailwindcss",
+        "lokalise.i18n-ally"
     ]
 }
 // rvest.vs-code-prettier-eslint
