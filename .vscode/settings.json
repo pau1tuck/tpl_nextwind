@@ -4,6 +4,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit"
     },
+    "suggestions": "localityBonus",
     "[javascript]": {
         "editor.quickSuggestions": {
             "other": "on",

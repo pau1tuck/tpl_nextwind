@@ -25,13 +25,16 @@
 			"correctness": {
 				"noUnusedVariables": "warn"
 			},
-			"nursery": {},
+			"style": {
+				"useNamingConvention": "warn"
+			},
+			"suspicious": {
+				"noConsoleLog": "warn"
+			},
 			"a11y": {
 				"all": false
 			},
-			"style": {
-				"useNamingConvention": "off"
-			}
+			"nursery": {}
 		}
 	}
 }
